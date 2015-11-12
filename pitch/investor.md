@@ -1,5 +1,5 @@
 WHAT
-We bring together and organize home chefs to business events with best home made delicacies available.
+We bring together and organize home chefs to serve business events with best home made delicacies available.
 
 WHY NOW
 The sharing economy is booming. AirBnB and Uber are dominating in their field, there is no successful person2person food business yet. Many have tried, but failed or pivoted to another model.
