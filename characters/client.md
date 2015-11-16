@@ -1,1 +1,0 @@
-event host or organizer
