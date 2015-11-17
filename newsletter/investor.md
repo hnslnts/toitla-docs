@@ -1,11 +1,13 @@
 PAST
 
+tulime täiskohaga tööle.
 slush
-selling 10k€
+tahtsime oma äri paremini tundma õppida - tegime 6k€
 plastik tükk
 
 CURRENT
 
+Kaks kõige ajamahukamat tegevust: tellimuse koostamine ja delivery
 Menu module ja Uber koostöö
 
 FUTURE
