@@ -1,8 +1,9 @@
-* Toitla VET ametis kirja
-* Kristiga serveerimine
-* Kätliniga üritus
-* Mis ürituse jaoks on vaja valmis saada?
-* Mis ürituse ajaks on vaja valmis saada? (äppis, äris)
-* Kokkasid juurde - eriti vegan ja gluteenivaba
-* Investor plaan
-* Osalus vestinguga ametlikuks
+Nov 23, 2015
+* 2,500€ in sales
+* First fully outsourced delivery & service
+* Introduction e-mail to investors we have approached so far
+* 5 new cooks to the patch
+* Sign up at VET-amet
+
+'' Milestones and progress track (metrics) for the next 4 months
+'' Blog post
