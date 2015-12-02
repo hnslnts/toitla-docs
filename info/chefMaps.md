@@ -7,9 +7,8 @@ http://waze.to?ll=59.418152,24.740211&navigate=yes
 
 Janika kodus  
 http://waze.to?ll=59.434918,24.727838&navigate=yes  
-
-Janika tööl  
-http://waze.to?ll= &navigate=yes  
+Erika 7a
+http://waze.to?ll=59.450710,24.713803&navigate=yes  
 
 Katrin Kivi  
 Käo 70  
@@ -19,8 +18,12 @@ Bianka
 Graniidi 29-3  
 http://waze.to?ll=59.442836,24.729439&navigate=yes  
 
-Maris Halliste  
-http://waze.to?ll= &navigate=yes  
+Marita Lind  
+Kuldnoka 15-42
+http://waze.to?ll=59.420733,24.704640&navigate=yes  
+Mahemarket  
+http://waze.to?ll=59.427887,24.704504&navigate=yes  
+
 
 Kristi Reimets  
 Kakumäe tee 19b  
