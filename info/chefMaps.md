@@ -3,7 +3,6 @@ http://waze.to?ll=59.438550,24.727962&navigate=yes
 
 Kertu
 Saku 15
-
 http://waze.to?ll=59.410018,24.741726&navigate=yes  
 
 Kätlin  
