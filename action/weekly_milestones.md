@@ -1,5 +1,6 @@
 # Dec 7, 2015
 * GitHub private account
+* Protsessi kaardistamine
 
 # Nov 30, 2015
 * Introduction e-mail to investors we have approached so far
