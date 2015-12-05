@@ -10,13 +10,10 @@
 
 # Reganud kokad, tuleb suhelda
 
-* kaja.kanarbik@gmail.com - delete
 * maris.halliste@gmail.com - kes on
 * viktor	viktor.berezin@gmail.com -
 * faqmax@gmail.com -
 * ove@twist.ee -
-* test@kasutaja.ee - delete
-* Test Kokk	testkokk@mailinator.com - delete
 * Ahto	ahto.reinaru@gmail.com
 * harry@age.ee -
 * jane.tuha@gmail.com -
