@@ -1,7 +1,8 @@
 # Dec 7, 2015
+* Send our intro e-mail to investors we have approached so far
 * GitHub private account
 * Protsessi kaardistamine
-* Kokkadele pikem kiri (väärtus, mida loome; hindadest, äpist)
++ Kokkadele pikem kiri (väärtus, mida loome; hindadest, äpist)
 * Sign up at VET-amet
 
 # Nov 30, 2015
