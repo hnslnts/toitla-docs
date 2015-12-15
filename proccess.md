@@ -28,3 +28,8 @@
     * Arve väljastamine
     * Kliendilt tagasiside
     * Tagasiside kokkadele
+
+* ERROR MANAGEMENT
+    * Kokkadel pakendid otsas
+    * Laos puudu sildi või muud materjali
+    * Tellimus muutus
