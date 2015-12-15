@@ -1,9 +1,9 @@
 # Krister
 
-* Kokkadele öelda, et me ei teegi suupisteid, me teeme toitu mis on näpuga söödav ja lihtsasti serveeritav. Vaja on nii suupisteid, kui ka lõunaampse ja muud näputoitu.
-* Uued kasutajad andku endast märku!
-* Hannesega order statusest. Kuidas saan ta kasutama.
-* Juhendisse, et kuidas menüüd koostada: käsitöö, spetsialiseerumine.
+* Uued kasutajad.
 
-* Kokad tahavad tulevatest tellimustest ülevaadet
-* Kui üritus toimub, kokad tahavad tagasisidet serveerijatelt!
+* Kas ja kuidas lõpetame ära suupiste draama.
+* Kas ja kuidas võtab Hannes süsteemi kasutusele
+
+* Kas ja kuidas garanteerime kokkadele uute tellimuste ülevaate.
+* Kas ja kuidas saame serveerijalt kokale tagasiside?

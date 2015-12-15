@@ -6,6 +6,8 @@ Marketing
 Sales - not sure but surely must have?
 Community Manager - take care of chefs
 Customer Manager - take care of new/recurring customers
+Orders manager
+    Menu composer
 Logistics
     Organizer (+equipment)
     Driver
