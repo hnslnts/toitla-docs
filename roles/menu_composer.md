@@ -1,1 +1,5 @@
-The chefs want to know if there are any orders coming up. Even if they may not get the gig. They just want to know if they should be prepared or not.
+* To compile the menu
+    * What kind of event is it - what chefs profile fits
+    * What types of food are needed?
+    * How does the title of the food sound?
+    * Even out the food between chefs.
