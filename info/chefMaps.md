@@ -19,8 +19,7 @@ Käo 70
 http://waze.to?ll=59.407028,24.717042&navigate=yes  
 
 Bianka  
-Graniidi 29-3  
-http://waze.to?ll=59.442836,24.729439&navigate=yes  
+Graniidi 29-3 http://waze.to?ll=59.442836,24.729439&navigate=yes
 
 Marita Lind  
 Kuldnoka 15-42
