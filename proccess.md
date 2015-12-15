@@ -1,22 +1,30 @@
 * Tellimuse valmistamine
     * KLIENT
-        * Tellib kodulehel või saadab emaili ja MK sisestab
-    * MK, ehk MENÜÜ KOOSTAJA
-        * Valmistab tellimsele menüü
+        * Tellib kodulehel või saadab emaili ja MANAGER sisestab
+    * MANAGER
+        * Eelarvestamine + menüü
         * Vormistab pakkumise
         * Saadab KLIENDILE
-    * KLIENT vastab
-    * MK kinnitab kokkadega, et toidud saab lauale
+    * KLIENT kinnitab
+    * MANAGER kinnitab kokkadega, et toidud saab lauale
 * Tellimuse täitmine
-    * KOLL valmistab kohvi
-    * KOLL valmistab vahendid
-    * KOLL tellib Uberi, annab talle kordinaadid
-    * KOLL annab Uberile tühjad kastid ja uued pakendid
-    * KOLL saadab vahendid kohapeale
-* Serveerimine
-    * SERVER on õigel ajal platsis
-    * SERVER katab laualina
-    * SERVER tõstab toidu lõikelaudadele
-    * SERVER paigutab joogid
-    * SERVER paneb Toitla sildid lauale
-    * SERVER koristab ja pakib
+    * Leia serveerija (GWB / Kristi)
+    * Serveerijale juhised
+        * SERVER on õigel ajal platsis
+        * SERVER katab laualina
+        * SERVER tõstab toidu lõikelaudadele
+        * SERVER paigutab joogid
+        * SERVER paneb Toitla sildid lauale
+        * SERVER koristab ja pakib
+    * KOLL komplekteerib vahendid
+    * KOLL kirjutab sildid
+    * KOLL valmistab kohvi / maitsevesi
+    * Logistiline plaan (kes kokad, mis järjekorras, SMS)
+    * KOLL tegeleb Uberiga (tellimine, SMS, kokkadele lingid, support)
+    * Serveerimine
+    * Koristamine
+    * Asjad lattu tagasi
+* Lõpp
+    * Arve väljastamine
+    * Kliendilt tagasiside
+    * Tagasiside kokkadele
