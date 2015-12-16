@@ -6,14 +6,15 @@ Kokk pakib toidu, Takso viib kohale, klient võtab kaane pealt ja ongi serveerit
 
 # Nõuded
 
-Ladustamine ei võta ruumi.
-Lihtne kokku panna.
-Standard mõõtu, et mahub transpordi kasti.
-Pakend on esitlusväärne laual, nagu oleks eraldi serveeritud.
-Toidu kirjelduse silt tuleb automaagiliselt toidu juurde.
-Odav tellida (max 30 senti tükk)
-Loodust säästev.
-
+Standard mõõdus GN 1/1 ja GN 1/2, kõrgus 100mm.
+Kinnine pakend (kaanetatav)
+Lihtsasti ladustatav lahtivõetud kujul ja kokkupandud kujul (võtaks vähe ruumi)
+Omavahel ühendatav, et vältida transpordil üksteise otsa ja külgedele ladustamisel pakendite omavahelist liikumist
+Nägus, et sobiks sellelt otse toitu lauale asetada ja ei peaks ümber tõstma mõnele muule alusele/taldrikule
+Omapärane, meie brändiga seostatav
+Keskkonda säästev (ideaalis biolagunev ja/või taastuvast loodusressursist)
+Madala tootmise ettevalmistuskuluga (max 1,000€)
+Madala tootmiskuluga (max 0.30€/tk 1,000 tk puhul)
 
 # Boonus
 
