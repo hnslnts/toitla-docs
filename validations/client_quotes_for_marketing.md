@@ -1,4 +1,5 @@
 "Väga lahe oli kõik, hea toit ja teenindus. Oleme ülimalt rahul ja ootame juba põhjust, et veel teid kasutada."
+"Ma olen suht kindel, et järgmisel korral võtan ka teilt, sest protsess oli mugav, hind sobiv ja üldiselt selline worry free värk""
 _Henrik Roonemaa, Geenius Meedia, Dec 16, 2015, office meeting for 14ppl_
 
 "Muide, mida ma kavatsen kindlasti kõigile rääkida, kes kuulata tahavad, on see, kui suurepäraselt ja tulemuslikult kõik asjad teie abiga lahendatud saavad. Imeline!"
