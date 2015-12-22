@@ -4,10 +4,17 @@ Structure:
 
 
 # Dec 23, 2015
-Progress
+Progress 100% (H)
+[+] Arved välja (Geenius, Teleport, TESA)
+[+] Arved tasuda (Öun, Kati, Bianka jt) _Payments are in the bank waiting for income_
+[+] Detsembri numbriline kokkuvõte ja võrdlus eelmiste kuudega _See https://goo.gl/O5vYqa_
+[+] Lahtiste otste inventuur (kas/mis on ripakil)
+
 Problems
+
 Decisions
-Plans (Hannes)
+
+Plans (H)
 * Tasks for Kristi
 * Role for Kati?
 
@@ -20,7 +27,7 @@ Progress 20% (Hannes)
 [+] Toitla mõttetalgute sisu ja küsimused (see new_years_eve.md)
 
 Problems
-* 2 sick kids at home and busy wife (Hannes)
+* 2 sick kids at home and busy wife, no time for work (Hannes)
 
 Plans (Hannes)
 * Arved välja (Geenius, Teleport, TESA)
