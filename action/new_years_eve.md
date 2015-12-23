@@ -19,6 +19,7 @@
 * How many (hours || people || half-fulltime) and what kind of chefs do we need and how to find/onboard?
 * How do we measure scalability?
 * Kuidas teha nii, et ilma meieta kasv jätkub?
+* Kuidas meid kõige kiiremini välja saaks? (Krister mainis telefonis)
 
 # Berliinis pead teadma
 

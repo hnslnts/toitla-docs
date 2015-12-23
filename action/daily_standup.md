@@ -1,5 +1,5 @@
 Structure:
-1. Progeress - Plans - Problems - Decisions
+1. Progeres (E=Extra) - Problems - Decisions - Plans (H=Hannes; K=Krister)
 2. What we have achieved towards weekly milestones? WMS update.
 
 
@@ -9,14 +9,12 @@ Progress 100% (H)
 [+] Arved tasuda (Öun, Kati, Bianka jt) _Payments are in the bank waiting for income_
 [+] Detsembri numbriline kokkuvõte ja võrdlus eelmiste kuudega _See https://goo.gl/O5vYqa_
 [+] Lahtiste otste inventuur (kas/mis on ripakil)
-
-Problems
-
-Decisions
+[E] client_feedback.md
+[E] client_quotes_for_marketing.md
+[E] reading Eric Rise again
 
 Plans (H)
-* Tasks for Kristi
-* Role for Kati?
+* Agreement letter and tasks for Kristi
 
 # Dec 22, 2015
 Progress 20% (Hannes)
