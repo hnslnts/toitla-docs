@@ -12,6 +12,7 @@
 
 # Questions
 
+* Kuidas kliendid emaililt vormile saame?
 * How may orders can we fill at this moment?
 * How much of the market can we grasp in what time?
 * How efective and scalable can order management get?
