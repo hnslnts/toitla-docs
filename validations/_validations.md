@@ -34,7 +34,7 @@
 * Muretu tähendab [saab usaldada, vähe vaeva, läbipaistev]
 * Saab usaldada meie hoolitseme tema eest.
 * Meilt ostavad need, kes on meie kvaliteedis juba veendunud kas kogemuse või tuttava kinnituse kaudu.
-* Meil on kõige kiirem kasv läbi olemasolevate tellimuste uue tellimuse leidmine.
+* Meil on kõige kiirem kasv läbi olemasolevate tellimuste uue kliendi leidmine.
 * Klient ja osaleja soovitab Toitlat kui talle räigelt meeldib kogu kogemus.
 * Rahul oleva kliendi/osaleja kõige tähtsam käima tõmbaja on õigel ajal meelde tuletamine.
 * Inimene on nõus oma järgmise ürituse kuupäeva ja emaili sisestama lihtsalt selleks, et menüüd näha.
